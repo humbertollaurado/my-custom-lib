@@ -1,6 +1,16 @@
 {
-  "name": "my-lib",
+  "name": "my-lib-custom-test-angular",
   "version": "0.0.1",
+  "description": "This is a test library published from Code Shots With Profanis",
+  "keywords": ["angular", "test", "library"],
+  "author": {
+    "name": "Humberto Llaurado",
+    "email": "humberto.llaurado@dualbootpartners.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humbertollaurado/my-custom-lib.git"
+  },
   "peerDependencies": {
     "@angular/common": "^16.0.0",
     "@angular/core": "^16.0.0"
